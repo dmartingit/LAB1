@@ -4,7 +4,7 @@ public class Labyrinth {
 	private int mLabHeight;
 	
 	public static void main(String[] args) {
-		System.out.println("Hello.");
+		System.out.println("Hello Daniel LOLLOOLOLOOLLOLOLO.");
 	}
 	
 	private void initInterface(int width, int height) {
